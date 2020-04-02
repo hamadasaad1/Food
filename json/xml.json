@@ -1,0 +1,37 @@
+{
+  "id": 389,
+  "title": "Hikechangers ",
+  "img": [
+    "http://skillzycp.com/upload/business/389_636896432064799384.jpg",
+    "http://skillzycp.com/upload/business/389_636896432315268827.jpg",
+    "http://skillzycp.com/upload/business/389_636896432445581923.jpg",
+    "http://skillzycp.com/upload/business/389_636896432574644899.jpg"
+  ],
+  "interest": "سفاري",
+  "price": 200,
+  "date": "2019-04-05T14:00:51.000Z",
+  "address": "الثغر بلازا مقابل ساكو ",
+  "trainerName": "Hikechangers ",
+  "trainerImg": "http://skillzycp.com/upload/trainer/389_BaseImage_636896408382239890.jpg",
+  "trainerInfo": "مغامروا الهايك",
+  "occasionDetail": "يسر فريق hike changers ان تعلن عن رحلتها القادمه وبوجودكم في جُمعتنا تصير احلى جَمعة 😍😍\r\n\r\n\r\nشاركو معنا في رحلة مسائية من أجمل رحلات المغامره \r\nالهايك مشي🚶🏻‍♂🚶🏼‍♀ \r\nوانشطة وفعاليات عديده🃏🎴 \r\nسناكس 🍪🍩🍫 \r\nوجبة عشاء 🌭🥙🍱🥘 \r\nموعد التجمع الساعه /2مساء \r\nونهاية الفعاليه الساعه / 9:30مساء \r\nالسعر / ٢٠٠ريال تشمل التنقلات من نقطة التجمع الى الموقع وفعاليات الرحله وو جبة عشاء 🍢🥗🍱 \r\n \r\nللإستفسار التواصل على الرقم : 0598855557 \r\nواتس اب 0532905587",
+  "latitude": "24.7535346921672",
+  "longitude": "46.5850353240967",
+  "isLiked": false,
+  "isSold": false,
+  "isPrivateEvent": false,
+  "hiddenCashPayment": false,
+  "specialForm": 0,
+  "questionnaire": null,
+  "questExplanation": null,
+  "reservTypes": [
+    {
+      "id": 571,
+      "name": "مغامر/ه هايك",
+      "count": 40,
+      "price": 200
+    }
+  ],
+  "questionnaireFields": null,
+  "occasionAgenda": []
+}

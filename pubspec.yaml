@@ -1,0 +1,54 @@
+name: food
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.3
+  bottom_navy_bar: ^5.2.2
+  http: ^0.12.0+4
+  provider: ^4.0.2
+  shared_preferences: ^0.5.6+1
+  simple_animations: ^1.3.3
+  google_fonts: ^0.3.7
+  intl: ^0.15.8
+  url_launcher: ^5.4.1
+  get_it: ^3.1.0
+  rflutter_alert: ^1.0.3
+  image_picker: 0.6.0+17
+  titled_navigation_bar: ^3.5.0
+  flutter_swiper: ^1.1.6
+  progress_dialog: ^1.2.1
+  vibration: ^1.2.4
+  connectivity: ^0.4.3+1
+  xml2json: ^4.2.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.7.3"
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - json/xml.json
+
+flutter_icons:
+  #  image_path: "assets/images/icon-128x128.png"
+  image_path_android: "assets/task.png"
+  image_path_ios: "assets/task.png"
+  android: true # can specify file name here e.g. "ic_launcher"
+  ios: true # can specify file name here e.g. "My-Launcher-Icon"
